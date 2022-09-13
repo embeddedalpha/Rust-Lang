@@ -26,5 +26,12 @@ fn main() {
     let _var_f32:f32 = 1.4;
     let _var_f64:f64 = 2.8;
 
+    //Above variables are immutable, once declared, they cannot be changed. Variables in rust are immutable by default.
+    //They can be made mutable by adding the keyword mut before the declaration.
+
+    let mut _var_mut_u8:u8    = 1;    //mutable unsigned 8 bit 
+
+    _var_mut_u8 = 45;
+
 
 }
