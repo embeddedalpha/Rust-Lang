@@ -27,5 +27,10 @@
     cargo run
 ```
 
+### Stuff I've covered :
+
+<li> Variables </l1>
+<li> Constants </l1>
+
 
 
