@@ -32,5 +32,6 @@
 <li> Variables </l1>
 <li> Constants </l1>
 <li> Strings </li>
+<li> Operators </li>
 
 
