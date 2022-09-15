@@ -114,5 +114,12 @@ fn main() {
     let tokens:Vec<&str> = _var_split_string.split(",").collect();
     println!("First Name = {}",tokens[0]);
 
+
+    /********************************************* Method: chars **********************************************/
+
+    for n in _var_split_string.chars(){
+        println!("{}",n);
+    }
+
 }
 
