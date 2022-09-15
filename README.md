@@ -31,6 +31,6 @@
 
 <li> Variables </l1>
 <li> Constants </l1>
-<l1> Strings </li>
+<li> Strings </li>
 
 
