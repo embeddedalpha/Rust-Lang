@@ -43,9 +43,12 @@ fn main() {
     else
     {
         println!("a is smaller than b");
+
     }
 
 
+
+    //Rest are same as C so no need to dive deep into them.
 
 
 
